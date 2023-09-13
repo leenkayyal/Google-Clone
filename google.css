@@ -135,15 +135,15 @@ section {
     }
     .pic {
         margin-right: 30px;
-        width: 100px;
+        width: 95px;
         border-radius: 60px;
     }
     .app-launcher {
-        width: 60px;
+        width: 55px;
     }
     .gmail,
     .images {
-        font-size: 40px;
+        font-size: 35px;
     }
    
     .tool-tip {
@@ -153,14 +153,14 @@ section {
         top: 85px;
     }  
     section {
-        padding-top: 400px;
+        padding-top: 450px;
         
     }
     .logo {
         width: 600px;
     }
     .search-box {
-        width: 830px;
+        width: 750px;
         height: 80px;
         border-radius: 60px;
         padding-left: 100px;
@@ -169,19 +169,19 @@ section {
    
     .magnifying-glass {
         width: 40px;
-        top: 20px;
+        top: 25px;
         left: 30px;
     }
     .voice {
         width: 70px;
         right: 80px;
-        top: 18px;
+        top: 21px;
       
     }
     .lens {
         width: 45px;
         right: 25px;
-        top: 16px;
+        top: 19px;
        
     }
    
